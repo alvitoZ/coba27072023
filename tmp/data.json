@@ -1,0 +1,23 @@
+[
+  {
+    "alt": "kita ikuyo",
+    "downloadUrl": "/404",
+    "src": "/uploads/kita1.png",
+    "name": "name1",
+    "desc": "desc1"
+  },
+  {
+    "alt": "ryo yamada",
+    "downloadUrl": "/404",
+    "src": "",
+    "name": "ryo",
+    "desc": "peng......."
+  },
+  {
+    "alt": "bocchi the rock!",
+    "downloadUrl": "https://drive.google.com/file/d/1esOi4vJDmswPGTMhP4IxuLEiytI0mVSv/view?usp=drivesdk",
+    "src": "https://drive.google.com/uc?export=view&id=1esOi4vJDmswPGTMhP4IxuLEiytI0mVSv",
+    "name": "bocchi the rock!",
+    "desc": "ntahlah"
+  }
+]
